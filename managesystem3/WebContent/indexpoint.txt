@@ -1,0 +1,24 @@
+사원명 : name
+생년월일 : birth
+연락처 : phone
+입사일 : joindate
+주소 : adrr1 adrr2 adrr3
+소속 부서 : division 
+	value 미정
+소속 팀: team
+	value 미정
+직급 : grade
+	value
+	sawon 사원
+	juyim 주임
+	daeli 대리
+	gyuajang 과장
+	chajang 차장
+	bujang 부장
+특이사항 : significant
+
+사번 : joinnum
+재직상태 : holdoffice
+퇴사날짜 : resigndate
+
+수정날짜 : moddate
