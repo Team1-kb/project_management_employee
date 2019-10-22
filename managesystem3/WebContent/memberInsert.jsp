@@ -10,7 +10,7 @@
 <body>
 <form action="" method="post">
 	<div>
-		<table border="1">
+		<table>
 			<tr>
 				<td id="inputtd1"><a style="font-size: 13px;">사원명</a></td>
 				<td id="inputtd2"><input type="text" name="name" /></td>
