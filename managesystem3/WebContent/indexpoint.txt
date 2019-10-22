@@ -17,7 +17,7 @@
 	bujang 부장
 특이사항 : significant
 
-사번 : joinnum
+사번 : sabun
 재직상태 : holdoffice
 퇴사날짜 : resigndate
 

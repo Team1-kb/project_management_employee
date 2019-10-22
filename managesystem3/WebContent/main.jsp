@@ -3,13 +3,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+<%@ include file = "head.jsp" %>
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <style>
 .mainTop {
-	width: 80% height: 10%;
+	width: 80%;
+	height: 100px;
 	background-color: yellow;
-	height : 800px;
 }
 
 .mainLeft {
@@ -30,8 +31,7 @@
 		<div><%=session.getAttribute("id")%>님 페이지 입니다.
 		</div>
 		<div>
-			<input type="button" value="사원 목록" /> <input type="button"
-				value="일괄 등록" />
+			<input type="button" value="사원 목록" /> <input type="button"	value="일괄 등록" />
 		</div>
 	</div>
 	<div class="mainLeft">
