@@ -9,16 +9,19 @@
 	value 미정
 직급 : grade
 	value
-	sawon 사원
-	juyim 주임
-	daeli 대리
-	gyuajang 과장
-	chajang 차장
-	bujang 부장
+	Staff 사원
+	Associate 주임
+	Associate Manager 대리 
+	Manager 과장
+	Associate Director 차장
+	Executive Manager 부장
 특이사항 : significant
 
-사번 : sabun
+사번 : businum
 재직상태 : holdoffice
 퇴사날짜 : resigndate
 
 수정날짜 : moddate
+
+DB 사용자 id : Team1
+DB 사용자 pw : 1234

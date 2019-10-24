@@ -12,6 +12,7 @@
 			<tr>
 				<td id="inputtd1"><a style="font-size: 13px;">연락처</a></td>
 				<td id="inputtd2"><input type="text" name="phone" /></td>
+				<td><input type="hidden" name="businum" value="<%%>"></td> 
 						</tr>
 			<tr>
 				<td ><a style="font-size: 13px;">주소</a></td>
@@ -28,7 +29,7 @@
 				<td id="inputtd1"><a style="font-size: 13px;">소속</a></td>
 				<td id="inputtd2"><select name="division" id="division">
 						<option>부서 선택</option>
-						<option>관리부</option>
+						<option value="management">관리부</option>
 						<option>영업부</option>
 						<option>생산부</option>
 				</select> <select name="team" id="team">

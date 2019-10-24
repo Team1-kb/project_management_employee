@@ -10,7 +10,7 @@
 	$(document).ready(function() {
 		$("#division").change(function() {
 			var selectdivision = this.value;
-			if (selectdivision == "관리부") {
+			if (selectdivision == "management") {
 				teamchange = management;
 				alert(selectdivision);
 			} else if (selectdivision == "영업부") {

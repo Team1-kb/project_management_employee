@@ -1,12 +1,11 @@
 package com.team1.org;
 
-import com.mysql.cj.x.protobuf.MysqlxDatatypes.Scalar.String;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class MemberDTO {
 	SimpleDateFormat date = new SimpleDateFormat("yyyy-MM-dd");
-	private int sabun;
+	private int businum;
 	private String name;
 	private Date birth;
 	private String phone;
